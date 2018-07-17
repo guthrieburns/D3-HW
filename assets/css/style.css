@@ -1,0 +1,17 @@
+.iframeContainer {
+  padding: 20px;
+  border: 1px solid #ADC5E9;
+}
+
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+
+  fill: #ADC5E9;
+  padding-bottom: 80px;
+}
+

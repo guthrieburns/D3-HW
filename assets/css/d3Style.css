@@ -1,0 +1,9 @@
+/* Students:
+ * =========
+ * Add styling to your d3 chart with this file. */
+ circle {
+    fill: lightblue;
+  }
+  text {
+    fill: black;
+  }
